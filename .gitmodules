@@ -1,3 +1,9 @@
 [submodule "test-giveth-commons-contracts"]
 	path = test-giveth-commons-contracts
 	url = https://github.com/dorgjelli/test-giveth-commons-contracts
+[submodule "test-giveth-commons-template-app"]
+	path = test-giveth-commons-template-app
+	url = https://github.com/dOrgJelli/test-giveth-commons-template-app
+[submodule "test-giveth-commons-lib"]
+	path = test-giveth-commons-lib
+	url = https://github.com/dOrgJelli/test-giveth-commons-lib
